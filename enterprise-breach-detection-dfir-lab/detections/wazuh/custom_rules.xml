@@ -1,0 +1,9 @@
+<!--
+Custom Wazuh rules for the Enterprise Breach Detection Lab.
+Rule IDs should use a safe local range such as 100200+.
+Do not paste secrets or real credentials here.
+-->
+
+<group name="enterprise_breach_lab,">
+  <!-- Add custom rules here as the lab progresses. -->
+</group>
